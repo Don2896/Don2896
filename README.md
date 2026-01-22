@@ -11,6 +11,7 @@ data analysis & modeling
 applied machine learning
 
 theory-driven exploration (finance, cognition, intelligence)
+
 -----
 🎯 **What I’m Working On**
 
